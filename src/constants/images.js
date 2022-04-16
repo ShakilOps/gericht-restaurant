@@ -21,7 +21,7 @@ import sign from '../assets/sign.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 
-const photos = {
+export default {
   bg,
   chef,
   G,
@@ -45,5 +45,3 @@ const photos = {
   quote,
   gericht,
 };
-
-export default photos;
